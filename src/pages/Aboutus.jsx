@@ -13,7 +13,7 @@ const Aboutus = ({ theme }) => {
       <div className="container mx-auto px-4">
         {/* Title */}
         <div className="text-center mb-12">
-          <h2 className={`py-20 text-4xl font-bold ${textColor}`}>About Us</h2>
+          <h2 className={`py-20 text-4xl font-bold ${textColor}`}>Moin haider</h2>
         </div>
 
         {/* Information */}
